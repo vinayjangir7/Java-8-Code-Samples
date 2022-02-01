@@ -19,3 +19,9 @@ This repo consists of examples which helps get to know newly added java concepts
     - groupingBy
     - partitioningBy
     - summarizingInt
+- Custom Collector
+- Parallel Streams
+- Split Iterator
+- Date Time API
+- Optionals
+- Fork/Join Framework
